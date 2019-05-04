@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @authors Miguel-Cristian
+ * @author Miguel-Cristian
  */
 public class Roundrobin extends javax.swing.JFrame {
 
